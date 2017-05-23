@@ -1,0 +1,5 @@
+run,avg_corr,avg_eff,dict,corpus,message
+201705191515,"0,689","0,8786",201705191515.dic,corpora/testbestanden/nl,Final test on test corpus
+201705191455,"0,6929","0,8759",201705191455.dic,corpora/dpc/nl,Final test on DPC
+201705231128,"0,7296","0,5201",201705191515.corr.dic,corpora/testbestanden/nl,Corrections for 201705191515
+201705231212,"0,7281","0,5915",201705191515.corr.dic,corpora/dpc/nl,Corrections on 201705191515 (DPC final)
