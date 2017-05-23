@@ -1,0 +1,4 @@
+run,avg_corr,avg_eff,dict,corpus,message
+201701271643,"0,6982","0,7024",201701271643.dic,corpora/testbestanden/utf-8/nl/,Test
+201701311030,"0,7356","0,5689",201701271643.corr.dic,corpora/testbestanden/utf-8/nl/,Manual corrections for 201701271643
+201705211501,"0,7193","0,7177",201705211501.dic,corpora/dpc/nl,2007 benchmark dpc
