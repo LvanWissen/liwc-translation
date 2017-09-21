@@ -6,7 +6,7 @@ LIWC (Linguistic Inquiry and Word Count) is a text analysis tool developed by so
 
 The full paper can be found in the proceeding of eLex2017:
 
-Van Wissen, Leon and Peter Boot (2017). "An Electronic Trnaslation of the LIWC Dictionary into Dutch". In: Proceedings of eLex 2017 conference, Electronic lexicography in the 21st century, 19-21 September 2017, Leiden. [pdf](https://elex.link/elex2017/wp-content/uploads/2017/09/paper43.pdf)
+Van Wissen, Leon and Peter Boot (2017). "An Electronic Translation of the LIWC Dictionary into Dutch". In: Proceedings of eLex 2017 conference, Electronic lexicography in the 21st century, 19-21 September 2017, Leiden. ([pdf](https://elex.link/elex2017/wp-content/uploads/2017/09/paper43.pdf))
 
 ## Contact
 We invite researchers in psychology, digital humanities and other fields to validate the
